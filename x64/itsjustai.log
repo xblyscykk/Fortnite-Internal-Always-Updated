@@ -1,0 +1,206 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Assembling NtUserSendInput.asm...
+  Assembling spoofinternal.asm...
+  dllmain.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(70,28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(75,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(86,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(86,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(86,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdkdefines.h(67,18): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\FNTool.h(4,1): warning C4005: 'RELATIVE': macro redefinition (compiling source file dllmain.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\wingdi.h(1907,1): message : see previous definition of 'RELATIVE' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(388,32): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(629,10): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(731,1): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\vector.h(37,7): message : see declaration of 'Vector3' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1080,23): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1092,24): warning C4018: '<': signed/unsigned mismatch (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1199,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1200,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1201,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1203,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1204,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1205,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1206,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1207,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1208,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1236,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1237,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1706,25): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1707,25): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\sdk.h(1720,41): warning C4305: '=': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\FNTool.cpp(60,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\FNTool.cpp(153,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(189,26): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'const unsigned __int64' can equal the given constant (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(182,10): warning C4101: 'cbWritten': unreferenced local variable (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(224,26): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'const unsigned __int64' can equal the given constant (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(217,10): warning C4101: 'cbWritten': unreferenced local variable (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(276,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(283,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(331,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(350,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(357,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(361,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(362,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(363,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(364,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(370,68): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(430,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(430,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(434,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(462,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(466,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(497,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(504,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(504,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(508,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(508,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(513,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(513,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(517,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(551,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(558,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(558,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(563,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(563,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(567,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(603,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(619,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(662,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(667,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(678,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(683,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(683,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(690,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(690,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(696,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(697,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(737,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(742,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(753,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(777,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(778,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(778,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(781,105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(814,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(821,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(821,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(827,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(827,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(831,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(865,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(876,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(969,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(976,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(976,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(981,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(981,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(985,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1049,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1049,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1054,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1055,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1056,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1057,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1087,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1092,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1333,123): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1333,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1476,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1504,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1517,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\menu.h(1517,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\aimbot.h(8,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\aimbot.h(9,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\aimbot.h(10,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(145,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(151,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(152,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(42,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(45,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(46,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(55,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(57,103): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(60,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(63,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(66,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(71,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(72,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(86,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(97,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(98,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(169,63): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(188,90): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(194,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(199,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(209,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(219,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(224,28): warning C4311: 'type cast': pointer truncation from 'APlayerState *' to 'uint32_t' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(224,28): warning C4302: 'type cast': truncation from 'APlayerState *' to 'uint32_t' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(229,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(241,73): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\esp.h(250,77): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(84,73): warning C4305: 'argument': truncation from 'double' to 'float' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(84,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(223,21): warning C4311: 'type cast': pointer truncation from 'T' to 'uint32_t'
+          with
+          [
+              T=AFortPawn *
+          ] (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(223,21): warning C4302: 'type cast': truncation from 'T' to 'uint32_t'
+          with
+          [
+              T=AFortPawn *
+          ] (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(224,25): warning C4311: 'type cast': pointer truncation from 'AFortPawn *' to 'uint32_t' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(224,25): warning C4302: 'type cast': truncation from 'AFortPawn *' to 'uint32_t' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(258,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(269,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(305,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(305,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(362,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(392,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(404,17): warning C4002: too many arguments for function-like macro invocation 'e' (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\actorloop.h(426,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\dllmain.cpp(95,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\dllmain.cpp(96,20): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\dllmain.cpp(191,26): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(2765,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ] (compiling source file dllmain.cpp)
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(2621,17): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ] (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(135,24): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ] (compiling source file dllmain.cpp)
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\shit.h(135,11): message : see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'GetFileNameFromHandle' (compiling source file dllmain.cpp)
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(122): warning C4715: 'read<bool>': not all control paths return a value
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(122): warning C4715: 'read<Vector3>': not all control paths return a value
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(122): warning C4715: 'read<unsigned __int64>': not all control paths return a value
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(122): warning C4715: 'read<unsigned int>': not all control paths return a value
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\itsjustai.h(122): warning C4715: 'read<int>': not all control paths return a value
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\FNTool.cpp(245): warning C4172: returning address of local variable or temporary: return_string
+C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\FNTool.cpp(117): warning C4715: 'FNTool::FindOffset': not all control paths return a value
+  All 2260 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  itsjustai.vcxproj -> C:\Users\Administrator\Desktop\A\AI PRIVATE INTERNAL\x64\itsjustai.dll
